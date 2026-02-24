@@ -1,0 +1,14 @@
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\bin\Debug\net8.0\VariableandDataTYpe.exe
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\bin\Debug\net8.0\VariableandDataTYpe.deps.json
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\bin\Debug\net8.0\VariableandDataTYpe.runtimeconfig.json
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\bin\Debug\net8.0\VariableandDataTYpe.dll
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\bin\Debug\net8.0\VariableandDataTYpe.pdb
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\VariableandDataTYpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\VariableandDataTYpe.AssemblyInfoInputs.cache
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\VariableandDataTYpe.AssemblyInfo.cs
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\VariableandDataTYpe.csproj.CoreCompileInputs.cache
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\VariableandDataTYpe.dll
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\refint\VariableandDataTYpe.dll
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\VariableandDataTYpe.pdb
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\VariableandDataTYpe.genruntimeconfig.cache
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\VariableandDataTYpe\obj\Debug\net8.0\ref\VariableandDataTYpe.dll
