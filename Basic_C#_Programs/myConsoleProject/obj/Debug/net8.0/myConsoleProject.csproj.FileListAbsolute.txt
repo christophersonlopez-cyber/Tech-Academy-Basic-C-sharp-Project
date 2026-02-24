@@ -1,0 +1,14 @@
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\bin\Debug\net8.0\myConsoleProject.exe
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\bin\Debug\net8.0\myConsoleProject.deps.json
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\bin\Debug\net8.0\myConsoleProject.runtimeconfig.json
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\bin\Debug\net8.0\myConsoleProject.dll
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\bin\Debug\net8.0\myConsoleProject.pdb
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\myConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\myConsoleProject.AssemblyInfoInputs.cache
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\myConsoleProject.AssemblyInfo.cs
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\myConsoleProject.dll
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\refint\myConsoleProject.dll
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\myConsoleProject.pdb
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\myConsoleProject.genruntimeconfig.cache
+C:\Users\frond\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\obj\Debug\net8.0\ref\myConsoleProject.dll
