@@ -50,7 +50,24 @@ public class MathOperations
         int num8 = Convert.ToInt32(Console.ReadLine());
         //then this line of code is to convert the result of division to double to avoid loss of decimal value
         double total3 = (Double)num7 / num8;
-        Console.WriteLine("The total division of two number is " + total3);
-        Console.WriteLine();
+        Console.WriteLine("The total division of two number is " + total3+"\n");
+
+
+
+
+        //this part is a math string challenge\
+
+        Console.WriteLine("This part will perform a math string challenge.\n");
+
+        Console.WriteLine("Input number ");
+        int num9 = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Input a name");
+        string name = Console.ReadLine();
+
+        string total4 = num9 + name;
+
+        Console.WriteLine("The total of math string challenge is " + total4);
+
+
     }
 }
