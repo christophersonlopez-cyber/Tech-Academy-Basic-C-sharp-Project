@@ -8,3 +8,9 @@ DailyReport/.vs/DailyReport/FileContentIndex/c592ace9-d942-4348-8d65-883338e4e79
 DailyReport/.vs/DailyReport/FileContentIndex/e9e7e9c3-725a-4fea-892a-0ba042f6b0ef.vsidx
 VariableandDataTYpe/.vs/VariableandDataTYpe/FileContentIndex/c02a2e61-8100-42a4-a924-3185488edc6f.vsidx
 VariableandDataTYpe/.vs/VariableandDataTYpe/FileContentIndex/9f9e6a7e-3d4c-4afb-a449-23c91267dfd5.vsidx
+*.BuildWithSkipAnalyzers
+/DailyzReport/obj/Debug/net8.0
+/DailyzReport/.vs
+/DailyzReport/bin/Debug
+DailyzReport/DailyzReport.csproj
+/DailyzReport
