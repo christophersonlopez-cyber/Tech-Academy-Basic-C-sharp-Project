@@ -25,8 +25,19 @@ public class Program
         // Console.WriteLine("The quotient is: " + quotient);
         //Console.ReadLine();
 
-        int remainder = 10 % 3;
-        Console.WriteLine("The remainder is: " + remainder);
-        Console.ReadLine();
+        //  int remainder = 10 % 3;
+        // Console.WriteLine("The remainder is: " + remainder);
+        //  Console.ReadLine();
+
+        // bool trueorfalse = 10>5;
+        // Console.WriteLine("Is 10 greater than 5? " + trueorfalse);
+
+        int roomtemperature = 72;
+        int currenttemperature = 68;
+
+        bool iswarm = roomtemperature != currenttemperature;
+
+        Console.WriteLine("Is the room warm? " + iswarm);
+
     }
 }
