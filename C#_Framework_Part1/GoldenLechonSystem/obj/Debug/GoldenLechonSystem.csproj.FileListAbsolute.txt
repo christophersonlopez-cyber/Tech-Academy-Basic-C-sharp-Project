@@ -1,0 +1,11 @@
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\bin\Debug\GoldenLechonSystem.exe.config
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\bin\Debug\GoldenLechonSystem.exe
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\bin\Debug\GoldenLechonSystem.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.csproj.AssemblyReference.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.Form1.resources
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.Properties.Resources.resources
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.csproj.GenerateResource.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.csproj.CoreCompileInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.exe
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\GoldenLechonSystem\obj\Debug\GoldenLechonSystem.exe.config

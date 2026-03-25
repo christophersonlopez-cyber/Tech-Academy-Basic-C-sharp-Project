@@ -1,0 +1,15 @@
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\bin\Debug\net8.0\DoWHile_WhileLoop.exe
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\bin\Debug\net8.0\DoWHile_WhileLoop.deps.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\bin\Debug\net8.0\DoWHile_WhileLoop.runtimeconfig.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\bin\Debug\net8.0\DoWHile_WhileLoop.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\bin\Debug\net8.0\DoWHile_WhileLoop.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.AssemblyInfoInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.AssemblyInfo.cs
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.sourcelink.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\refint\DoWHile_WhileLoop.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\DoWHile_WhileLoop.genruntimeconfig.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DoWHile_WhileLoop\obj\Debug\net8.0\ref\DoWHile_WhileLoop.dll

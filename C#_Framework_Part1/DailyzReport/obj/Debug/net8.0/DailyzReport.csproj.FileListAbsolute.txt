@@ -1,0 +1,15 @@
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\bin\Debug\net8.0\DailyzReport.exe
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\bin\Debug\net8.0\DailyzReport.deps.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\bin\Debug\net8.0\DailyzReport.runtimeconfig.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\bin\Debug\net8.0\DailyzReport.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\bin\Debug\net8.0\DailyzReport.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.AssemblyInfoInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.AssemblyInfo.cs
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.csproj.CoreCompileInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.sourcelink.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\refint\DailyzReport.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\DailyzReport.genruntimeconfig.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\DailyzReport\obj\Debug\net8.0\ref\DailyzReport.dll

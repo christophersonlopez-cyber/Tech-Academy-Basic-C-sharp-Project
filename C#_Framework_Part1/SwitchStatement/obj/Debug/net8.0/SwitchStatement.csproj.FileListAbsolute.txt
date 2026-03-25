@@ -1,0 +1,15 @@
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.sourcelink.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll

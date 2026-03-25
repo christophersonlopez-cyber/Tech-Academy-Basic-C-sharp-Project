@@ -1,0 +1,15 @@
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\bin\Debug\net8.0\TernaryOperatorchallenge.exe
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\bin\Debug\net8.0\TernaryOperatorchallenge.deps.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\bin\Debug\net8.0\TernaryOperatorchallenge.runtimeconfig.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\bin\Debug\net8.0\TernaryOperatorchallenge.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\bin\Debug\net8.0\TernaryOperatorchallenge.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.AssemblyInfoInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.AssemblyInfo.cs
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.csproj.CoreCompileInputs.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.sourcelink.json
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\refint\TernaryOperatorchallenge.dll
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.pdb
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\TernaryOperatorchallenge.genruntimeconfig.cache
+C:\Users\frond\OneDrive\Documents\GitHub\Tech-Academy-Basic-C-sharp-Project\TernaryOperatorchallenge\obj\Debug\net8.0\ref\TernaryOperatorchallenge.dll
