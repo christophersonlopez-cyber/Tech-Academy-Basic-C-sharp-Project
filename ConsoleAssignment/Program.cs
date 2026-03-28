@@ -14,10 +14,10 @@ public class Program
         string input = Console.ReadLine();
 
         //this p[art i used a for to loop the array and add the input of the user
-        for (int i = 0; i < names.Length; i++) 
-        { 
-            names[i] = names[i]+input;
-         
+        for (int i = 0; i < names.Length; i++)
+        {
+            names[i] = names[i] + input;
+
 
         }
 
@@ -49,8 +49,33 @@ public class Program
         {
             Console.WriteLine(i);
         }
+        Console.WriteLine("\n\n");
+        //this l;ine is part 3 of my assignment
 
 
+        //this part i used a< operator 
 
+        Console.WriteLine("This is the part 3 of my assignment" + "\n\n");
+        int[] number2 ={ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+        for (int i = 0; i < number2.Length; i++)
+        {
+          
+                Console.WriteLine(number2[i]);
+          
+        }
+
+        Console.WriteLine("\n\n");
+        Console.WriteLine("This libne is i used a <= operator");
+        //this paryt i used a <= operator
+
+        int[] number3 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        for (int i = 0; i <= number3.Length-1; i++)
+        {
+      
+                Console.WriteLine(number3[i]);
+            
+
+        }
     }
 }
