@@ -31,5 +31,26 @@ public class Program
         {
             Console.WriteLine(name);
         }
+
+        //this part i made a infinite loop and try to fix it
+
+        // int number = 0;
+        //because this code is the is is always gretaher than to number so that why always
+        //print the value of i and it will be always 0 and it will be infinete loop
+        // for (int i = 0; i >=number; i++)
+        // {
+        // Console.WriteLine(i);
+        //  }
+
+        //this code is to fix the infinete loop
+        //this code is to display 1-10 number
+        int number = 10;
+        for (int i = 0; i <= number; i++)
+        {
+            Console.WriteLine(i);
+        }
+
+
+
     }
 }
