@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Net.Mime.MediaTypeNames;
 
 
 public class Program
@@ -92,7 +93,7 @@ public class Program
         Console.WriteLine("Input a color you want to search Color Start with Big letter: ");
         String input2 = Console.ReadLine();
 
-  for (int i = 0; i < list.Count; i++)
+        for (int i = 0; i < list.Count; i++)
         {
             if (list[i] == input2)
             {
@@ -105,6 +106,45 @@ public class Program
                 //this part is to print the message if the item is not found in the list and it will be print after the loop is finished
                 Console.WriteLine("The item is not found in the list");
             }
+        }
+
+        List<string> list2 = new List<string>() { "Mango", "Banana", "Apple", "Grapes", "Banana", "Mango", "Strawberry" };
+        Console.WriteLine("\n\n");
+        Console.WriteLine("Input a fruit you want to search Fruit Start with Big letter: ");
+        string input3 = Console.ReadLine();
+        bool found = false;
+        for (int i = 0; i < list2.Count; i++)
+        {
+
+
+
+            for (int j = 0; j < list2.Count; j++)
+            {
+
+                if (i != j && list2[i] == list2[j])
+                {
+                    Console.WriteLine($"Index: {i}");
+               
+                 
+
+                }
+                if (list2[i].Equals(input3, StringComparison.OrdinalIgnoreCase))
+                {
+                    found = true;
+                }
+
+
+            }
+          
+
+        }
+        if (found)
+        {
+            Console.WriteLine($"\nYour input '{input3}' is found in the list.");
+        }
+        else
+        {
+            Console.WriteLine($"\nYour input '{input3}' is not found in the list.");
         }
     }
 }
