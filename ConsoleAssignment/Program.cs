@@ -50,19 +50,24 @@ public class Program
             Console.WriteLine(i);
         }
         Console.WriteLine("\n\n");
+
+
+
+
+
         //this l;ine is part 3 of my assignment
 
 
         //this part i used a< operator 
 
         Console.WriteLine("This is the part 3 of my assignment" + "\n\n");
-        int[] number2 ={ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        int[] number2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
         for (int i = 0; i < number2.Length; i++)
         {
-          
-                Console.WriteLine(number2[i]);
-          
+
+            Console.WriteLine(number2[i]);
+
         }
 
         Console.WriteLine("\n\n");
@@ -70,12 +75,36 @@ public class Program
         //this paryt i used a <= operator
 
         int[] number3 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-        for (int i = 0; i <= number3.Length-1; i++)
+        for (int i = 0; i <= number3.Length - 1; i++)
         {
-      
-                Console.WriteLine(number3[i]);
-            
 
+            Console.WriteLine(number3[i]);
+
+
+        }
+
+
+
+
+        //this part is used a list item is unique
+        Console.WriteLine("\n\n");
+        List<string> list = new List<string>() { "Blue", "Red", "White", "Pink", "Green" };
+        Console.WriteLine("Input a color you want to search Color Start with Big letter: ");
+        String input2 = Console.ReadLine();
+
+  for (int i = 0; i < list.Count; i++)
+        {
+            if (list[i] == input2)
+            {
+                Console.WriteLine($"The item is found in the list in index: {i}");
+                //this part is to break the loop if the item is found in the list
+                break;
+            }
+            else if (i == list.Count - 1)
+            {
+                //this part is to print the message if the item is not found in the list and it will be print after the loop is finished
+                Console.WriteLine("The item is not found in the list");
+            }
         }
     }
 }
