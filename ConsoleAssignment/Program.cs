@@ -158,17 +158,30 @@ public class Program
         //this part is to create a list of strings that has at least two identical strings in the list
 
         List<string> list3 = new List<string>() { "James", "JamesJR", "Doncic", "Reaves", "Smart", "Ayton", "Kennard", "James", "Doncic" };
-        Console.WriteLine(" \"James\", \"JamesJR\",\"Doncic\", \"Reaves\", \"Smart\", \"Ayton\", \"Kennard\",\"James\",\"Doncic\"");
-        HashSet<string> uniqueItems = new HashSet<string>();
-        foreach (string item in list3) {
-            if (!uniqueItems.Add(item))
+        Console.WriteLine(" \"this is the name of nba player sample\",\"James\", \"JamesJR\",\"Doncic\", \"Reaves\", \"Smart\", \"Ayton\", \"Kennard\",\"James\",\"Doncic\"");
+
+        //this dictionary is i search online so idecided to use this even this code is not in the assignment but i want to try this code to check if the item
+ 
+        Dictionary<string, int> counts = new Dictionary<string, int>();
+        //
+        // count each item in the list 
+        foreach (string listsample in list3)
+        {
+            if (counts.ContainsKey(listsample))
             {
-                Console.WriteLine($"Duplicate item found: {item}");
+                counts[listsample]++; // added if the item is already in the dictionary, increase the count
             }
             else
             {
-                Console.WriteLine($"Unique item: {item}");
+                counts[listsample] = 1; // this ione if first time the item is added to the dictionary, set the count to 1
             }
+        }
+
+        // this code display if duplicate or not so i usesd this condtion
+        foreach (var kvp in counts)
+        {
+            string status = kvp.Value > 1 ? "duplicate" : "unique";
+            Console.WriteLine($"{kvp.Key} = {status}");
         }
     }
 }
