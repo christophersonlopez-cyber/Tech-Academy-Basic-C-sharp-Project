@@ -107,17 +107,19 @@ public class Program
                 Console.WriteLine("The item is not found in the list");
             }
         }
-
+        //this part is to check if the item is duplicate in the list and also to check if the item is found in the list or not
         List<string> list2 = new List<string>() { "Mango", "Banana", "Apple", "Grapes", "Banana", "Mango", "Strawberry" };
         Console.WriteLine("\n\n");
+        //this part is to get the input from user and store it in a variable called input3
         Console.WriteLine("Input a fruit you want to search Fruit Start with Big letter: ");
         string input3 = Console.ReadLine();
         bool found = false;
+        //this part is to check if the item is duplicate in the list and also to check if the item is found in the list or not
         for (int i = 0; i < list2.Count; i++)
         {
 
 
-
+            //this part is to check if the item is duplicate in the list
             for (int j = 0; j < list2.Count; j++)
             {
 
@@ -138,6 +140,7 @@ public class Program
           
 
         }
+        //this part is to print the message if the item is found in the list or not
         if (found)
         {
             Console.WriteLine($"\nYour input '{input3}' is found in the list.");
@@ -145,6 +148,27 @@ public class Program
         else
         {
             Console.WriteLine($"\nYour input '{input3}' is not found in the list.");
+        }
+
+
+
+        Console.WriteLine("\n\n");
+        Console.WriteLine("Create a list of strings that has at least two identical strings in the list.");
+
+        //this part is to create a list of strings that has at least two identical strings in the list
+
+        List<string> list3 = new List<string>() { "James", "JamesJR", "Doncic", "Reaves", "Smart", "Ayton", "Kennard", "James", "Doncic" };
+        Console.WriteLine(" \"James\", \"JamesJR\",\"Doncic\", \"Reaves\", \"Smart\", \"Ayton\", \"Kennard\",\"James\",\"Doncic\"");
+        HashSet<string> uniqueItems = new HashSet<string>();
+        foreach (string item in list3) {
+            if (!uniqueItems.Add(item))
+            {
+                Console.WriteLine($"Duplicate item found: {item}");
+            }
+            else
+            {
+                Console.WriteLine($"Unique item: {item}");
+            }
         }
     }
 }
