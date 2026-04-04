@@ -13,5 +13,8 @@ public class Program
         employee.LastName = "Student";
         //yhis line i call the method from employee class
         employee.sayname();
+        //this line i call the quit method from employee class
+        employee.Quit();
+       
     }
 }
