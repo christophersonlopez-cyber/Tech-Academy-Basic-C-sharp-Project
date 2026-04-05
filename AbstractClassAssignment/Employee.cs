@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AbstractClassAssignment
 {
     //this class is inheriting from the abstract class person
-    public class Employee:Person,IQuitable
+    public class Employee:Person,Iquitabble
     {
         public int Id { get; set; }
         //this one is to give a value to the sayname method in the abstract class
@@ -15,6 +15,7 @@ namespace AbstractClassAssignment
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName+"\n\n");
         }
+        //this one is to give a value to the quit method in the interface
         public void Quit()
         {
             Console.WriteLine("The employee has quit.\n");
