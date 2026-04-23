@@ -1,0 +1,32 @@
+﻿@model IEnumerable<CarInsurance.Models.Insuree>
+
+
+<h2>Admin</h2>
+
+
+<table class="table">
+    <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>EmailAddress</th>
+        <th>Quote</th>
+
+    </tr>
+
+
+
+    @foreach (var items in Model)
+    {
+        <tr>
+
+            <td>@items.Firstname</td>
+            <td>@items.Lastname</td>
+            <td>@items.EmailAddress</td>
+            <td>@items.Quote</td>
+
+
+        </tr>
+
+    }
+
+</table>
