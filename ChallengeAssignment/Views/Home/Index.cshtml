@@ -1,0 +1,25 @@
+﻿@model Person
+<div class="d-flex flex-column justify-content-center align-items-center"> 
+
+    <div class="text-center">
+        <h1>The Server time: </h1>
+        <h2>The Time is @Model.currenttime</h2>
+
+    </div>
+    <div class="">
+        <form method="post">
+            <input type="text" name="firstname" placeholder="Firstname" required/>
+            <input type="text" name="lastname" placeholder="Lastname" required />
+            <input type="text" name="middlename" placeholder="Middlename" required />
+          
+            <button type="submit" class="btn btn-primary">Display</button>
+        
+        
+        </form>
+        <h5>My Fullname is :@Model.fullname()</h5>
+    </div>
+
+ 
+
+
+</div>
