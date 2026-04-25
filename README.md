@@ -10,6 +10,36 @@ This repository contains my projects, exercises, and outputs from my studies in 
 -Visual Studio/
 -ASp.Net Framwork/Asp.Net Core
 -SQL Server Management Studio
+-Visual Studio Code
+
+
+#Assignment\
+C# Part 1
+ -DailyReportAssignment
+ -DowhileAssignemnt
+ -IfStatement
+ -MathComparison
+ -MathOperation
+ -PackageExpression
+ -Switch Statement
+ -TernaryOperatorAssignement
+ -Variable And Data Type
+
+
+
+C# PArt 2
+-AppsStringandIntegerAssignemnt
+-AbstractAssignemnt
+-ArrayAssignment
+-ClassMethodAssignemnt
+-FirstCodeAssignemnt
+-ConstrtuctorAssignment
+-InputAssignment
+-Lambda Assignemnt
+-Operator Assignment
+-PArsing Enum Assignment
+_Struct Assignment
+-DateTime Assignment
 
 
 ##Projects
