@@ -14,8 +14,9 @@ This repository contains my projects, exercises, and outputs from my studies in 
 
 ##Projects
 -TwentyOneGames
+
 -Car Insurane
-    -This repository contains my projects, exercises, and outputs from my studies in C# programming. Its purpose is to           showcase my progress, the concepts I have learned, and my skills in software development.
+        -This repository contains my projects, exercises, and outputs from my studies in C# programming. Its purpose is to         -showcase my progress, the concepts I have learned, and my skills in software development.
 -Student and Grade Information
     -I create a sample student database the student can input their Firstname Middlename Lastname And Grade You can input
     a grade like Math English Computer Science and Physic and the progran compute the total average of the student after       that the program save the data into database.
